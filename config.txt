@@ -1,6 +1,6 @@
 token=NTAwODcwMTYzODE0NTQ3NDU2.DqWwyw.-aakEGAH0x4OrfvT6ziBAfY71fI
 owner=446784051320193035
 prefix=E
-game=Tybe Ehelp
+game=ربما أغُنية تحل محل الكلام .
 stayinchannel=true
 songinstatus=false
